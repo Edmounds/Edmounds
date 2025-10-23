@@ -40,13 +40,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edmounds&repo=your-repo-name&theme=tokyonight)](https://github.com/Edmounds/fruit_competition)
-
-
----
-
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmounds666@gmail.com)
