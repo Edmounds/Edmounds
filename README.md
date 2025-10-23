@@ -37,40 +37,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Edmounds&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
 </div>
 
----
-
-## 🔥 Current Focus
-
-class RoboticsEngineer:
-def init(self):
-self.name = "Edmounds"
-self.role = "Vision Team Leader @ Robocon"
-self.interests = ["SLAM", "Computer Vision", "Autonomous Navigation", "Astronomy"]
-self.current_learning = ["ROS 2", "Deep Learning", "Sensor Fusion"]
-
-text
-def say_hi(self):
-    print("Thanks for visiting! Let's build intelligent robots together! 🤖🚀")
-me = RoboticsEngineer()
-me.say_hi()
-
-text
 
 ---
 
 ## 🌟 Featured Projects
 
-<!-- 在这里添加你的项目，例如：
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edmounds&repo=your-repo-name&theme=tokyonight)](https://github.com/Edmounds/your-repo-name)
--->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edmounds&repo=your-repo-name&theme=tokyonight)](https://github.com/Edmounds/fruit-competition)
+
 
 ---
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edmounds666@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edmounds)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your-uid)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/397591871)
 
 ---
 
@@ -83,7 +64,5 @@ text
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-![Visitor Count](https://profile-counter.glitch.me/Edmounds/count.svg)
 
 </div>
