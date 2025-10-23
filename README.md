@@ -1,24 +1,112 @@
 ## Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Edmounds+👋;Robotics+Engineering+%40+CQU;SLAM+%7C+Computer+Vision+%7C+ROS2" alt="Typing SVG" />
+</div>
 
-![](https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg)
+## 🚀 About Me
 
-**Edmounds/Edmounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **大二学生** @ 重庆大学明月班 - 机器人工程专业  
+🤖 **Robocon竞赛** 视觉组负责人  
+🔭 研究方向：**SLAM算法** 与机器人定位导航  
+🌌 业余爱好：**天文观测**，探索宇宙的奥秘  
+💻 目前正在学习：**ROS 2** 机器人操作系统  
+🐍 最喜欢的语言：**Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### Robotics & CV
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmounds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmounds&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edmounds&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Edmounds&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
+</div>
+
+---
+
+## 🔥 Current Focus
+
+class RoboticsEngineer:
+def init(self):
+self.name = "Edmounds"
+self.role = "Vision Team Leader @ Robocon"
+self.interests = ["SLAM", "Computer Vision", "Autonomous Navigation", "Astronomy"]
+self.current_learning = ["ROS 2", "Deep Learning", "Sensor Fusion"]
+
+text
+def say_hi(self):
+    print("Thanks for visiting! Let's build intelligent robots together! 🤖🚀")
+me = RoboticsEngineer()
+me.say_hi()
+
+text
+
+---
+
+## 🌟 Featured Projects
+
+<!-- 在这里添加你的项目，例如：
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edmounds&repo=your-repo-name&theme=tokyonight)](https://github.com/Edmounds/your-repo-name)
+-->
+
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edmounds)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your-uid)
+
+---
+
+<div align="center">
+  
+### 🌌 "Per aspera ad astra" - Through hardships to the stars
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Edmounds/Edmounds/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+![Visitor Count](https://profile-counter.glitch.me/Edmounds/count.svg)
+
+</div>
